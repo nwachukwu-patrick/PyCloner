@@ -236,10 +236,3 @@ class Cloner():
 
 
 
-url = 'https://instagram.com/'
-
-dir  =  'C:\\Users\\Patrick\\PycharmProjects\\brutcrap\\BruteForce\\Attack\\main\\PyCloner'
-clone = Cloner(url,dir)
-clone.webpage()
-clone.clone()
-# clone.clone('C:\inetpub\wwwroot\cloner')
